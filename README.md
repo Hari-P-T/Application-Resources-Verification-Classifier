@@ -27,7 +27,7 @@ pip install flask googlesearch-python
 ## Usage
 1. Run the Flask web application using the `app.py` script:
 ```python
-python app.py
+python server.py
 ```
 
 
